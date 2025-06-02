@@ -1,3 +1,4 @@
+
 # Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
@@ -24,8 +25,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: SACHIN M
-RegisterNumber:  212223040177
+Developed by: Karthik Krishna 
+RegisterNumber:  212223240067
 */
 import chardet
 import pandas as pd
